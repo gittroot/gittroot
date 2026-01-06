@@ -1,6 +1,6 @@
 ## About Me
 # 💫 About Me:
-🔭 I'm currently working on my skills and to make a +$10M start-up idea.<br>👯 I'm looking to collaborate on side-projects that can upgrade my portfolio to the next level.<br>🌱 I'm currently learning Python, Data Science, OS building, web building and I'm eager to learn fullstack developing.<br>💬 You can ask me about...uh...not much honestly, I'm just learning for now.<br>⚡ Fun fact: I love cats (Ah, and also my Tech Stack will show my interests. If you want to know what I have mastered, ask me 😄)
+🔭 I'm currently working on my skills and to make a +$10M start-up idea.<br>👯 I'm looking to collaborate on side-projects that can upgrade my portfolio to the next level.<br>🌱 I'm currently learning Python, Data Science, OS building, web building and I'm eager to learn fullstack developing.<br>💬 You can ask me about...uh...not much honestly, I'm just learning for now.<br>⚡ Fun fact: I love cats (Ah, and also my Tech Stack will show my interests. If you want to know what I have mastered, ask me)
 
 
 ## 🌐 Socials:
