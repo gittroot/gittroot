@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my skills and to make an Open Source crazy shit (or some +$10M start-up idea, whatever comes first).<br>👯 I'm looking to collaborate on side-projects that can upgrade my portfolio to the next level.<br>🌱 I'm currently learning Python, Data Science, OS building, web building and I'm eager to learn fullstack developing.<br>💬 You can ask me about...uh...not much honestly, I'm just learning for now.<br>⚡ Fun fact: I love cats (Ah, and also my Tech Stack will show my interests. If you want to know what I have mastered, ask me)
+🔭 I'm currently working on my skills and to make an Open Source crazy shit (or some +$10M start-up idea, whatever comes first).<br>👯 I'm looking to collaborate on side-projects that can upgrade my portfolio to the next level.<br>🌱 I'm currently learning Linux, CISCO Packet Tracer, CyberSec and OS building, eager to be a software developer.<br>💬 You can ask me about...uh...not much honestly, I'm just learning for now.<br>⚡ Fun fact: I love cats (Ah, and also my Tech Stack will show my interests. If you want to know what I have mastered, ask me)
 
 
 ## 🌐 Socials:
